@@ -1,0 +1,8 @@
+duckdb==1.5.2
+polars==1.40.0
+numpy==2.4.4
+scikit-learn==1.8.0
+pytest==9.0.3
+python-dotenv==1.2.2
+PyYAML==6.0.3
+lightgbm==4.6.0
